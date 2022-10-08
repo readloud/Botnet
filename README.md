@@ -13,7 +13,6 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 - Command & control server with intuitive user-interface
 - Custom payload generator for multiple platforms
 - 12 post-exploitation modules
-- [developers](https://byob.dev/).
 
 #### All responsibilities are at your own risk.
 
