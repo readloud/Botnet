@@ -5,7 +5,7 @@ https://github.com/readloud/byob.git
 
 | Source List |
 | ----------- |
-|[120-[BruteTest]-V0.5](/'120-[BruteTest]-V0.5.rar')|
+|[120-[BruteTest]-V0.5](/120-[BruteTest]-V0.5.rar)|
 |'120-[DVNC-TEST]-DDOS-V1.0.rar'|
 |'120-[ModBot]-SNIFF-VNCBRUTE-SP2FIX-NICK.rar'|
 |'120-[ModBot]-SP2FIX-SYM-VNCBRUTE.rar'|
