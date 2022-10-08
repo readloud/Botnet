@@ -14,7 +14,7 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 - Custom payload generator for multiple platforms
 - 12 post-exploitation modules
 
-|All responsibilities are at your own risk.|
+|All responsibilities are at your own risk|
 |----------- |
 |[(rbot)x0n3-Satan-v1.0-Priv8-By-CorryL{x0n3-h4ck}](https://github.com/readloud/Botnet/tree/main/(rbot)x0n3-Satan-v1.0-Priv8-By-CorryL%7Bx0n3-h4ck%7D)|
 |[@@ SKUZ FIXED DDOS @@](https://github.com/readloud/Botnet/tree/main/%40%40%20SKUZ%20FIXED%20DDOS%20%40%40)|
@@ -413,5 +413,4 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[xerion2.5.rar](https://github.com/readloud/Botnet/blob/main/xerion2.5.rar)|
 |[ya.bot.rar](https://github.com/readloud/Botnet/blob/main/ya.bot.rar)|
 |[zunker.rar](https://github.com/readloud/Botnet/blob/main/zunker.rar)|
-
-#### Please use it only for research purposes.
+|[*Please use it only for research purposes.](https://byob.dev/)|
