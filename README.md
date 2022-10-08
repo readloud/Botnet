@@ -1,6 +1,19 @@
 # BOTNET
 
-An [open-source](https://github.com/readloud/byob) post-exploitation framework for students, researchers and [developers](https://byob.dev/).*
+[![license](https://img.shields.io/badge/license-GPL-brightgreen.svg)](https://github.com/malwaredllc/byob/blob/master/LICENSE)
+[![version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/malwaredllc/byob)
+![build](https://github.com/malwaredllc/byob/workflows/build/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/malwaredllc/byob/badge.svg)](https://coveralls.io/github/malwaredllc/byob)
+<img alt="Discord" src="https://img.shields.io/discord/709150520446550097"/>
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=BYOB%20(Post-Exploitation%20Framework)&url=https://github.com/malwaredllc/byob&via=malwaredllc&hashtags=byob,python,security,github)
+
+__Disclaimer__: This project should be used for authorized testing or educational purposes only.
+
+[BYOB](https://github.com/readloud/byob) is an open-source post-exploitation framework for students, researchers and developers. It includes features such as:
+- Command & control server with intuitive user-interface
+- Custom payload generator for multiple platforms
+- 12 post-exploitation modules
+- [developers](https://byob.dev/).
 
 #### All responsibilities are at your own risk.
 
