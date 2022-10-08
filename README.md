@@ -1,7 +1,8 @@
 # BOTNET
-#### All responsibilities are at your own risk.
 
-https://github.com/readloud/byob.git
+An [open-source](https://github.com/readloud/byob) post-exploitation framework for students, researchers and [developers](https://byob.dev/).*
+
+#### All responsibilities are at your own risk.
 
 | Source List |
 | ----------- |
