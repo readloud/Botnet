@@ -413,4 +413,5 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[xerion2.5.rar](https://github.com/readloud/Botnet/blob/main/xerion2.5.rar)|
 |[ya.bot.rar](https://github.com/readloud/Botnet/blob/main/ya.bot.rar)|
 |[zunker.rar](https://github.com/readloud/Botnet/blob/main/zunker.rar)|
-|[*Please use it only for research purposes.](https://byob.dev/)|
+
+*Please use it only for research purposes.](https://byob.dev/)*
