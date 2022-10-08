@@ -14,10 +14,8 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 - Custom payload generator for multiple platforms
 - 12 post-exploitation modules
 
-#### All responsibilities are at your own risk.
-
-| Source List |
-| ----------- |
+|All responsibilities are at your own risk.|
+|----------- |
 |[(rbot)x0n3-Satan-v1.0-Priv8-By-CorryL{x0n3-h4ck}](https://github.com/readloud/Botnet/tree/main/(rbot)x0n3-Satan-v1.0-Priv8-By-CorryL%7Bx0n3-h4ck%7D)|
 |[@@ SKUZ FIXED DDOS @@](https://github.com/readloud/Botnet/tree/main/%40%40%20SKUZ%20FIXED%20DDOS%20%40%40)|
 |[Agobot](https://github.com/readloud/Botnet/tree/main/Agobot)|
