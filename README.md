@@ -5,7 +5,7 @@ https://github.com/readloud/byob.git
 
 | Source List |
 | ----------- |
-|'120-[BruteTest]-V0.5.rar'|
+|/'120-[BruteTest]-V0.5.rar'|
 |'120-[DVNC-TEST]-DDOS-V1.0.rar'|
 |'120-[ModBot]-SNIFF-VNCBRUTE-SP2FIX-NICK.rar'|
 |'120-[ModBot]-SP2FIX-SYM-VNCBRUTE.rar'|
@@ -399,9 +399,5 @@ https://github.com/readloud/byob.git
 |ZeuS2.0.8.9|
 |zunker.rar|
 |'Zutick Administrator Bot.zip'|
-![image](https://user-images.githubusercontent.com/67372333/194694489-0520e527-5da4-4479-9df5-467b2b92b905.png)
-
-
-
 
 #### Please use it only for research purposes.
