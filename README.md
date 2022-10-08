@@ -1,6 +1,6 @@
 # BOTNET
 
-🏡[Home](https://readloud.github.io/) *Back to  ←*
+*Back to 🏡[Home](https://readloud.github.io/) ←*
 
 [![license](https://img.shields.io/badge/license-GPL-brightgreen.svg)](https://github.com/malwaredllc/byob/blob/master/LICENSE)
 [![version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/malwaredllc/byob)
