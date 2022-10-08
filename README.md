@@ -85,8 +85,6 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[z3r0xb0t Final Public Release [v2.0]](https://github.com/readloud/Botnet/tree/main/z3r0xb0t%20Final%20Public%20Release%20%5Bv2.0%5D)|
 |[z3r0xb0t](https://github.com/readloud/Botnet/tree/main/z3r0xb0t)|
 |[(rbot)x0n3-Satan-v1.0-Priv8-By-CorryL{x0n3-h4ck}.rar](https://github.com/readloud/Botnet/blob/main/(rbot)x0n3-Satan-v1.0-Priv8-By-CorryL%7Bx0n3-h4ck%7D.rar)|
-|[.gitattributes](https://github.com/readloud/Botnet/blob/main/.gitattributes)|
-|[.gitignore](https://github.com/readloud/Botnet/blob/main/.gitignore)|
 |[120 Moded By t0nixx.rar](https://github.com/readloud/Botnet/blob/main/120%20Moded%20By%20t0nixx.rar)|
 |[120-MYSQL-V2.rar](https://github.com/readloud/Botnet/blob/main/120-MYSQL-V2.rar)|
 |[120-MYSQL-V999.rar](https://github.com/readloud/Botnet/blob/main/120-MYSQL-V999.rar)|
@@ -131,12 +129,12 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[Dbot.v3.1.rar](https://github.com/readloud/Botnet/blob/main/Dbot.v3.1.rar)|
 |[EPiC_BoT_V1.zip](https://github.com/readloud/Botnet/blob/main/EPiC_BoT_V1.zip)|
 |[ForBot_Olin-SYM-VNC-NETAPI-All_The_Public_Shit.rar](https://github.com/readloud/Botnet/blob/main/ForBot_Olin-SYM-VNC-NETAPI-All_The_Public_Shit.rar)|
-|[ForBot____sniffer__other_mods-_ch405_.rar](https://github.com/readloud/Botnet/blob/main/ForBot____sniffer__other_mods-_ch405_.rar)|
+|[ForBot____sniffer__other_mods-_ch405_.rar](https://github.com/readloud/Botnet/raw/main/ForBot____sniffer__other_mods-_ch405_.rar)|
 |[GENTOOreptile-base.rar](https://github.com/readloud/Botnet/blob/main/GENTOOreptile-base.rar)|
 |[Gellbot_3.rar](https://github.com/readloud/Botnet/blob/main/Gellbot_3.rar)|
 |[GigaBot-DCASS.rar](https://github.com/readloud/Botnet/blob/main/GigaBot-DCASS.rar)|
 |[H-Bot M0d 3.0 M0dd3d by TH & Sculay.rar](https://github.com/readloud/Botnet/blob/main/H-Bot%20M0d%203.0%20M0dd3d%20by%20TH%20%26%20Sculay.rar)|
-|[H-Bot_M0d_3.0_M0dd3d_by_TH___Sculay.rar](https://github.com/readloud/Botnet/blob/main/H-Bot_M0d_3.0_M0dd3d_by_TH___Sculay.rar)|
+|[H-Bot_M0d_3.0_M0dd3d_by_TH___Sculay.rar](https://github.com/readloud/Botnet/raw/main/H-Bot_M0d_3.0_M0dd3d_by_TH___Sculay.rar)|
 |[I1.4b0.rar](https://github.com/readloud/Botnet/blob/main/I1.4b0.rar)|
 |[IHS-H-A-V003-Exploits.zip](https://github.com/readloud/Botnet/blob/main/IHS-H-A-V003-Exploits.zip)|
 |[IMBOT_MOD.rar](https://github.com/readloud/Botnet/blob/main/IMBOT_MOD.rar)|
@@ -192,14 +190,14 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[RxBot-MP.rar](https://github.com/readloud/Botnet/blob/main/RxBot-MP.rar)|
 |[Rx_Temptation.rar](https://github.com/readloud/Botnet/blob/main/Rx_Temptation.rar)|
 |[Rxbot_7.6-Modded-Tr0gdor.rar](https://github.com/readloud/Botnet/blob/main/Rxbot_7.6-Modded-Tr0gdor.rar)|
-|[Rxbot_7.6-Modded-Tr0gdor_2_.rar](https://github.com/readloud/Botnet/blob/main/Rxbot_7.6-Modded-Tr0gdor_2_.rar)|
+|[Rxbot_7.6-Modded-Tr0gdor_2_.rar](https://github.com/readloud/Botnet/raw/main/Rxbot_7.6-Modded-Tr0gdor_2_.rar)|
 |[Rxbot_ak_7.7_fira_pviv8.rar](https://github.com/readloud/Botnet/blob/main/Rxbot_ak_7.7_fira_pviv8.rar)|
 |[SBX.amk.0x00.rar](https://github.com/readloud/Botnet/blob/main/SBX.amk.0x00.rar)|
 |[SDBot_with_NB spreader.rar](https://github.com/readloud/Botnet/blob/main/SDBot_with_NB%20spreader.rar)|
 |[SDX.amk.0x00.rar](https://github.com/readloud/Botnet/blob/main/SDX.amk.0x00.rar)|
 |[SDbot05b-getadm.rar](https://github.com/readloud/Botnet/blob/main/SDbot05b-getadm.rar)|
 |[STEAMBOT-src-2008.rar](https://github.com/readloud/Botnet/blob/main/STEAMBOT-src-2008.rar)|
-|[SYM-VNC-NETAP__304_-ASN.rar](https://github.com/readloud/Botnet/blob/main/SYM-VNC-NETAP__304_-ASN.rar)|
+|[SYM-VNC-NETAP__304_-ASN.rar](https://github.com/readloud/Botnet/raw/main/SYM-VNC-NETAP__304_-ASN.rar)|
 |[Sbot-RARSpreader.rar](https://github.com/readloud/Botnet/blob/main/Sbot-RARSpreader.rar)|
 |[Sdbot_Hardcore_Mod_By_StOner.zip](https://github.com/readloud/Botnet/blob/main/Sdbot_Hardcore_Mod_By_StOner.zip)|
 |[SkuZ-BoT-V.1-2006-.rar](https://github.com/readloud/Botnet/blob/main/SkuZ-BoT-V.1-2006-.rar)|
@@ -274,7 +272,7 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[gt.zip](https://github.com/readloud/Botnet/blob/main/gt.zip)|
 |[gtbot-hackersteam.zip](https://github.com/readloud/Botnet/blob/main/gtbot-hackersteam.zip)|
 |[gtsev-spreader.rar](https://github.com/readloud/Botnet/blob/main/gtsev-spreader.rar)|
-|[gtsev-spreader_2_.rar](https://github.com/readloud/Botnet/blob/main/gtsev-spreader_2_.rar)|
+|[gtsev-spreader_2_.rar](https://github.com/readloud/Botnet/raw/main/gtsev-spreader_2_.rar)|
 |[h3xb0t.rar](https://github.com/readloud/Botnet/blob/main/h3xb0t.rar)|
 |[h4x0rb0t_2.0_gt_edition.zip](https://github.com/readloud/Botnet/blob/main/h4x0rb0t_2.0_gt_edition.zip)|
 |[happybot.v2.0b.zip](https://github.com/readloud/Botnet/blob/main/happybot.v2.0b.zip)|
@@ -297,7 +295,7 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[knight.rar](https://github.com/readloud/Botnet/blob/main/knight.rar)|
 |[l0lw0rm.rar](https://github.com/readloud/Botnet/blob/main/l0lw0rm.rar)|
 |[litmus2-bot.rar](https://github.com/readloud/Botnet/blob/main/litmus2-bot.rar)|
-|[litmus2-bot_2_.rar](https://github.com/readloud/Botnet/blob/main/litmus2-bot_2_.rar)|
+|[litmus2-bot_2_.rar](https://github.com/readloud/Botnet/raw/main/litmus2-bot_2_.rar)|
 |[microbot.rar](https://github.com/readloud/Botnet/blob/main/microbot.rar)|
 |[mm0d_asn_.rar](https://github.com/readloud/Botnet/blob/main/mm0d_asn_.rar)|
 |[mmodbasn.rar](https://github.com/readloud/Botnet/blob/main/mmodbasn.rar)|
@@ -313,7 +311,7 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[nzm-netapi.rar](https://github.com/readloud/Botnet/blob/main/nzm-netapi.rar)|
 |[nzm_priv_shit.rar](https://github.com/readloud/Botnet/blob/main/nzm_priv_shit.rar)|
 |[nzmlite_sql.rar](https://github.com/readloud/Botnet/blob/main/nzmlite_sql.rar)|
-|[nzmlite_symantec___.rar](https://github.com/readloud/Botnet/blob/main/nzmlite_symantec___.rar)|
+|[nzmlite_symantec___.rar](https://github.com/readloud/Botnet/raw/main/nzmlite_symantec___.rar)|
 |[oscar.rar](https://github.com/readloud/Botnet/blob/main/oscar.rar)|
 |[pBot.rar](https://github.com/readloud/Botnet/blob/main/pBot.rar)|
 |[pBot_v2.rar](https://github.com/readloud/Botnet/blob/main/pBot_v2.rar)|
@@ -350,14 +348,14 @@ __Disclaimer__: This project should be used for authorized testing or educationa
 |[reverse.rar](https://github.com/readloud/Botnet/blob/main/reverse.rar)|
 |[rezo.ninjabot.zip](https://github.com/readloud/Botnet/blob/main/rezo.ninjabot.zip)|
 |[ri0t[v5].rar](https://github.com/readloud/Botnet/blob/main/ri0t%5Bv5%5D.rar)|
-|[ri0t].rar](https://github.com/readloud/Botnet/blob/main/ri0t%5D.rar)|
+|[ri0t].rar](https://github.com/readloud/Botnet/raw/main/ri0t%5D.rar)|
 |[ri0t_v4.rar](https://github.com/readloud/Botnet/blob/main/ri0t_v4.rar)|
-|[ri0t_v5_.rar](https://github.com/readloud/Botnet/blob/main/ri0t_v5_.rar)|
+|[ri0t_v5_.rar](https://github.com/readloud/Botnet/raw/main/ri0t_v5_.rar)|
 |[ri0tv5.rar](https://github.com/readloud/Botnet/blob/main/ri0tv5.rar)|
 |[rnm5b.rar](https://github.com/readloud/Botnet/blob/main/rnm5b.rar)|
 |[rouge-bots_xdcc.rar](https://github.com/readloud/Botnet/blob/main/rouge-bots_xdcc.rar)|
 |[rx-14-09-06_Netapi_doyley.rar](https://github.com/readloud/Botnet/blob/main/rx-14-09-06_Netapi_doyley.rar)|
-|[rx-AKMod___msDTC1025- Stripp3d------sc4nn3rz.rar](https://github.com/readloud/Botnet/blob/main/rx-AKMod___msDTC1025-%20Stripp3d------sc4nn3rz.rar)|
+|[rx-AKMod___msDTC1025- Stripp3d------sc4nn3rz.rar](https://github.com/readloud/Botnet/raw/main/rx-AKMod___msDTC1025-%20Stripp3d------sc4nn3rz.rar)|
 |[rx-asn-2-re-worked v3.rar](https://github.com/readloud/Botnet/blob/main/rx-asn-2-re-worked%20v3.rar)|
 |[rx-asn-2-re-worked_v2.rar](https://github.com/readloud/Botnet/blob/main/rx-asn-2-re-worked_v2.rar)|
 |[rx-asn-2-re-worked_v3.rar](https://github.com/readloud/Botnet/blob/main/rx-asn-2-re-worked_v3.rar)|
