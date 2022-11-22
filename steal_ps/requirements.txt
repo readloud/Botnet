@@ -1,0 +1,5 @@
+mega.py
+pywin32
+pycryptodome
+colored
+pyinstaller
